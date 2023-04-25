@@ -1,0 +1,18 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body style="height: auto; min-height: auto;">
+<p>Hi {{{Recipient.FirstName}}},<br />
+<br />
+This is a test.<br />
+Another line to commit again.<br />
+Another line to commit again.<br />
+<br />
+Thanks,<br />
+<br />
+DD</p>
+
+<p>&nbsp;</p>
+</body>
+</html>
