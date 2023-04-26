@@ -1,5 +1,5 @@
 public class Calculator {
-    public static integer sum4(integer left, integer right) {
+    public static integer sum5(integer left, integer right) {
         return left + right;
     }
     
